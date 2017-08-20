@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6C0090731D3F9595007F005A"
-               BuildableName = "UINagivationController.app"
-               BlueprintName = "UINagivationController"
-               ReferencedContainer = "container:UINagivationController.xcodeproj">
+               BuildableName = "&#x7f8e;&#x56e2;.app"
+               BlueprintName = "&#x7f8e;&#x56e2;"
+               ReferencedContainer = "container:&#x7f8e;&#x56e2;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6C0090871D3F9596007F005A"
-               BuildableName = "UINagivationControllerTests.xctest"
-               BlueprintName = "UINagivationControllerTests"
-               ReferencedContainer = "container:UINagivationController.xcodeproj">
+               BuildableName = "&#x7f8e;&#x56e2;.xctest"
+               BlueprintName = "&#x7f8e;&#x56e2;Tests"
+               ReferencedContainer = "container:&#x7f8e;&#x56e2;.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6C0090921D3F9596007F005A"
-               BuildableName = "UINagivationControllerUITests.xctest"
-               BlueprintName = "UINagivationControllerUITests"
-               ReferencedContainer = "container:UINagivationController.xcodeproj">
+               BuildableName = "&#x7f8e;&#x56e2;.xctest"
+               BlueprintName = "&#x7f8e;&#x56e2;UITests"
+               ReferencedContainer = "container:&#x7f8e;&#x56e2;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C0090731D3F9595007F005A"
-            BuildableName = "UINagivationController.app"
-            BlueprintName = "UINagivationController"
-            ReferencedContainer = "container:UINagivationController.xcodeproj">
+            BuildableName = "&#x7f8e;&#x56e2;.app"
+            BlueprintName = "&#x7f8e;&#x56e2;"
+            ReferencedContainer = "container:&#x7f8e;&#x56e2;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C0090731D3F9595007F005A"
-            BuildableName = "UINagivationController.app"
-            BlueprintName = "UINagivationController"
-            ReferencedContainer = "container:UINagivationController.xcodeproj">
+            BuildableName = "&#x7f8e;&#x56e2;.app"
+            BlueprintName = "&#x7f8e;&#x56e2;"
+            ReferencedContainer = "container:&#x7f8e;&#x56e2;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C0090731D3F9595007F005A"
-            BuildableName = "UINagivationController.app"
-            BlueprintName = "UINagivationController"
-            ReferencedContainer = "container:UINagivationController.xcodeproj">
+            BuildableName = "&#x7f8e;&#x56e2;.app"
+            BlueprintName = "&#x7f8e;&#x56e2;"
+            ReferencedContainer = "container:&#x7f8e;&#x56e2;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

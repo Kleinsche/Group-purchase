@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>松鼠桂鱼</string>
+		<key>pic</key>
+		<string>1.jpeg</string>
+		<key>content</key>
+		<string>松鼠桂鱼是苏州地区的传统名菜，在江南各地一直将其列作宴席上的上品佳肴。据说早在乾隆皇帝下江南时，苏州就有“松鼠鲤鱼”了，乾隆曾品尝过。后来便发展成了“松鼠鳜鱼”。
+清代《调鼎集》中有关于“松鼠鱼”的记载:“取季鱼，肚皮去骨，拖蛋黄，炸黄，作松鼠式。油、酱油烧。”季鱼，应是季花鱼，即鳜鱼。这条记载间接证明苏州乾隆年间有“松鼠鲤鱼”的传说是可能的。因为《调鼎集》中的不少菜肴均是清乾隆、嘉庆时的。其次可以说明今天的“松鼠桂鱼”正是在“松鼠鱼”的基础上发展起来的。不同的是，古代的“松鼠鱼”是挂的蛋黄糊，而今天的“松鼠鱼”是拍干淀粉。古代的“松鼠鱼”是在炸后加“油、酱油烧”成的，今天则在炸好后直接将制好的卤汁浇上去的。此外，今天的“松鼠鱼”在造型上更为逼真，其味酸甜可口，这些都是古代的“松鼠鱼”所难以比拟的。</string>
+		<key>price</key>
+		<string>50</string>
+		<key>buy</key>
+		<string>1000</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>清汤鱼翅</string>
+		<key>pic</key>
+		<string>2.jpeg</string>
+		<key>content</key>
+		<string>清汤鱼翅是一道美味可口的汉族传统名菜，属于浙菜系。此菜汤色碧清，鸡鲜味浓，鱼翅透明而糯，猪肺洁白细嫩如豆腐。制作简单，味道鲜美，营养价值极高。</string>
+		<key>price</key>
+		<string>60</string>
+		<key>buy</key>
+		<string>2000</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>枫镇大面</string>
+		<key>pic</key>
+		<string>3.jpeg</string>
+		<key>content</key>
+		<string>相传，乾隆年间，一张姓店主在枫桥集镇上开了一家红汤面馆。一天下午，张店主在去买作料的路上看到一位中年妇女，由于给老父买药的钱被偷，正在伤心，张店主就把身上的钱都给了她。晚上回店后才想起第二天煮面没有作料，郁闷之下边喝酒浇愁边吊高汤烧浇头，昏沉中误将喝剩的残酒倒入锅中。第二天早上起来，才发现未加酱油等调料的白焖肉居然喷香扑鼻，自此开始主营白汤面。有一年，乾隆下江南恰逢夏天，在游完寒山寺后路过枫桥，循香味进店吃面，吃后连连称好，并赐名“枫镇白汤大肉面”，此后300年来，枫镇大面名闻遐迩，为世人熟知。</string>
+		<key>price</key>
+		<string>70</string>
+		<key>buy</key>
+		<string>3000</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>响油鳝糊</string>
+		<key>pic</key>
+		<string>4.jpeg</string>
+		<key>content</key>
+		<string>响油鳝糊是一道江南地区的汉族传统名菜，属于苏帮菜。以新鲜鳝鱼作为原料，把当天宰杀的鳝鱼切成段儿后，放入佐料，爆炒。颜色偏深红，油润而不腻，新鲜可口。
+响油鳝糊因鳝糊上桌后盘中油还在辟叭作响而得名。特点在于鳝肉鲜美、香味浓郁、开胃健身。</string>
+		<key>price</key>
+		<string>70</string>
+		<key>buy</key>
+		<string>4000</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>西瓜鸡</string>
+		<key>pic</key>
+		<string>5.jpeg</string>
+		<key>content</key>
+		<string>西瓜鸡实质是清蒸鸡。天热，吃清蒸鸡最是得体。菜馆里做西瓜鸡处理西瓜很讲究，瓜要大小适中，顶端处横向切开，将瓜瓤挖尽，在西瓜表皮上刻花，冠云峰、虎丘剑池、寒山寺钟楼等等，全看厨师本领。主图上下再刻上回纹花边，愈显古色古香。将清蒸好的童子鸡装入西瓜皮囊中，盖上瓜盖，便可上桌。理论上讲，西瓜之清凉会渗入鸡中，实则不大可能。但暑热之中，酒桌上能看到绿油油又雕刻精美的西瓜壳，更重要的是从西瓜中舀汤，夹鸡肉，吃起来感觉会很好。</string>
+		<key>price</key>
+		<string>80</string>
+		<key>buy</key>
+		<string>5000</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>蟹壳黄</string>
+		<key>pic</key>
+		<string>6.jpeg</string>
+		<key>content</key>
+		<string>用发酵面加油酥制成皮加馅的酥饼。成品呈褐黄色，吃口酥、松、香，饼色与形状酷似煮熟的蟹壳。蟹壳黄因其形圆色黄似蟹壳而得名。蟹壳黄是用油酥加酵面作坯，先制成扁圆形小饼，外沾一层芝麻，贴在烘炉壁上烘烤而成。此饼味美咸甜适口，皮 酥香脆。有人写诗赞它“未见饼家先闻香，入口酥皮纷纷下”。
+蟹壳黄的馅心有咸、甜两种。咸味的有葱油、鲜肉、蟹粉、虾仁等，甜的有白糖、玫瑰、豆沙、枣泥等品种。早期上海的所有茶楼、老虎灶（开水专营店）的店面处，大都设有一个立式烘缸和一个平底煎盘炉，边做边卖两件小点心--蟹壳黄和生煎馒头。蟹壳黄香酥，生煎馒头鲜嫩，深受茶客喜爱。
+20世纪30年代后期，出现了单卖蟹壳黄和生煎馒头这两个品种的专业店，如黄家沙、大壶春、吴苑等，名噪一时。</string>
+		<key>price</key>
+		<string>90</string>
+		<key>buy</key>
+		<string>6000</string>
+	</dict>
+</array>
+</plist>
